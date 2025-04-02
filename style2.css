@@ -200,10 +200,13 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 25px;
+    gap: 30px;
 }
 .help-card{
     width: 33.33%;
+    border: 2px solid #2e6bdc;
+    border-radius: 10px;
+    padding: 15px;
     flex-direction: column;
 }
 .help-card img{
